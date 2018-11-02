@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif'
+}
+
+h1, h2{
+     text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size:120;
+}
+
+#adjectives {
+    font-size: 100px;
+    color: #ffffff;
+}
+
+
+.vert {
+   margin-top: 600px;
+  }
+
+.discoButton {
+    background-color: aliceblue;
+    margin: 10em 70em;
+    border-radius: 20px;
+}
+
+

@@ -1,0 +1,25 @@
+.bigImage {
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+}
+
+.smallImageContainer {
+    display: flex;
+    width: 600px;
+    height: 199px;
+    background-color: red;
+   
+
+.container {
+    width: 600px;
+    
+}
+
+.geoffistheman {
+    flex-direction: row;
+}
+
+.selected{
+    border: 2px red;
+}

@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #6e9bef;
+}
+
+ul {
+    list-style: none;
+}
+
+#wlogo{
+    width:400px;
+}
+
+.pupil {
+    float: left;
+    width: 199px;
+}
+
+.pupil-img {
+    max-width: 199px;
+}
+
+.pupils {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.bottom-margin {
+    margin-top: 100px;
+}
+
+.landingImage {
+    position: relative;
+}
+
+.landing {
+    z-index: 5;
+    position: absolute;
+    
+   
+   
+}
